@@ -1,2 +1,2 @@
-# Social_Network
+# Social Network
 Simple Social network API Project
